@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Chatbot Template</title>
+    <!-- Bootstrap CSS CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .chat-container {
+            max-width: 600px;
+            margin: 50px auto;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+            height: 80vh;
+        }
+        .chat-header {
+            padding: 15px 20px;
+            border-bottom: 1px solid #dee2e6;
+            font-weight: 600;
+            font-size: 1.25rem;
+            color: #343a40;
+            background-color: #e9ecef;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+        .chat-messages {
+            flex-grow: 1;
+            padding: 20px;
+            overflow-y: auto;
+            background-color: #f1f3f5;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .message {
+            display: flex;
+            align-items: flex-end;
+            margin-bottom: 10px;
+            padding: 10px 15px;
+            border-radius: 20px;
+            font-size: 1rem;
+            line-height: 1.3;
+            width: fit-content;
+            max-width: 80%;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            animation: fadeIn 0.3s ease forwards;
+        }
+        .message.user {
+            background-color: #0d6efd;
+            color: white;
+            align-self: flex-end;
+            border-bottom-right-radius: 0;
+            text-align: right;
+            margin-left: auto;
+            flex-direction: row-reverse;
+        }
+        .message.bot {
+            background-color: #dee2e6;
+            color: #212529;
+            align-self: flex-start;
+            border-bottom-left-radius: 0;
+            text-align: left;
+            margin-right: auto;
+        }
+        .avatar {
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            background-color: #bbb;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: bold;
+            color: white;
+            margin-right: 10px;
+            user-select: none;
+            flex-shrink: 0;
+        }
+        .message.user .avatar {
+            background-color: #0d6efd;
+            margin-left: 10px;
+            margin-right: 0;
+        }
+        .chat-input-area {
+            padding: 15px 20px;
+            border-top: 1px solid #dee2e6;
+            display: flex;
+            gap: 10px;
+            background-color: #e9ecef;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+        }
+        .chat-input-area input[type="text"] {
+            flex-grow: 1;
+            border-radius: 20px;
+            border: 1px solid #ced4da;
+            padding: 10px 15px 10px 40px;
+            font-size: 1rem;
+            background-image: url('data:image/svg+xml;utf8,<svg fill="gray" height="16" viewBox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M21 6.5a2.5 2.5 0 0 0-2.5-2.5H5.5A2.5 2.5 0 0 0 3 6.5v11A2.5 2.5 0 0 0 5.5 20h13a2.5 2.5 0 0 0 2.5-2.5v-11zM5.5 7h13a.5.5 0 0 1 .5.5v.5H5v-.5a.5.5 0 0 1 .5-.5zm13 10h-13a.5.5 0 0 1-.5-.5v-7h14v7a.5.5 0 0 1-.5.5z"/></svg>');
+            background-repeat: no-repeat;
+            background-position: 12px center;
+        }
+        .chat-input-area input[type="text"]:focus {
+            outline: none;
+            border-color: #0d6efd;
+            box-shadow: 0 0 5px rgba(13, 110, 253, 0.5);
+        }
+        .chat-input-area button {
+            border-radius: 20px;
+            padding: 10px 20px;
+            font-weight: 600;
+            transition: background-color 0.3s ease;
+        }
+        .chat-input-area button:hover {
+            background-color: #0b5ed7;
+        }
+        @keyframes fadeIn {
+            from {opacity: 0; transform: translateY(10px);}
+            to {opacity: 1; transform: translateY(0);}
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container d-flex flex-column">
+        <div class="chat-header">
+            Chatbot
+        </div>
+        <div class="chat-messages" id="chatMessages" aria-live="polite" aria-atomic="false">
+            <!-- Chat messages will appear here -->
+        </div>
+        <form id="chatForm" class="chat-input-area" aria-label="Send message form">
+            <input type="text" id="userInput" placeholder="Type your message..." aria-label="Message input" autocomplete="off" required />
+            <button type="submit" class="btn btn-primary">Send</button>
+        </form>
+    </div>
+
+    <!-- Bootstrap JS Bundle CDN (includes Popper) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Simple chatbot UI logic
+        const chatForm = document.getElementById('chatForm');
+        const chatMessages = document.getElementById('chatMessages');
+        const userInput = document.getElementById('userInput');
+
+        // Function to add message to chat area with avatar and animation
+        function addMessage(message, sender) {
+            const messageDiv = document.createElement('div');
+            messageDiv.classList.add('message', sender);
+
+            // Create avatar element
+            const avatarDiv = document.createElement('div');
+            avatarDiv.classList.add('avatar');
+            avatarDiv.textContent = sender === 'user' ? 'U' : 'B';
+
+            // Append avatar and message text
+            messageDiv.appendChild(avatarDiv);
+            const textSpan = document.createElement('span');
+            textSpan.textContent = message;
+            messageDiv.appendChild(textSpan);
+
+            chatMessages.appendChild(messageDiv);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+
+        // Handle form submit event
+        chatForm.addEventListener('submit', function(event) {
+            event.preventDefault();
+            const message = userInput.value.trim();
+            if (message === '') return;
+
+            // Tambahkan pesan pengguna ke UI
+            addMessage(message, 'user');
+            userInput.value = '';
+
+            // Kirim ke Flask
+            fetch('/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ message: message })
+            })
+            .then(response => response.json())
+            .then(data => {
+                addMessage(data.reply, 'bot');
+            })
+            .catch(error => {
+                addMessage("Maaf, terjadi kesalahan.", 'bot');
+                console.error('Error:', error);
+            });
+        });
+
+    </script>
+</body>
+</html>
