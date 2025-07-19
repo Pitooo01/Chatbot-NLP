@@ -1,0 +1,31 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "sim_threshold": 0.35,
+  "crisis_keywords": [
+    "bunuh diri",
+    "suicide",
+    "self harm",
+    "melukai diri",
+    "ingin mati",
+    "kill myself",
+    "hurt myself",
+    "cutting"
+  ],
+  "topic_default_ans": {
+    "depression": "Gejala depresi dapat ditangani; hubungi profesional kesehatan mental.",
+    "anxiety": "Kecemasan bisa dikelola dengan terapi, latihan relaksasi, atau obat.",
+    "bipolar": "Bipolar butuh evaluasi psikiater; pengobatan tersedia.",
+    "schizophrenia": "Butuh perawatan medis jangka panjang; segera konsultasi.",
+    "ptsd": "Terapi fokus trauma dapat membantu PTSD.",
+    "ocd": "ERP terapi efektif untuk OCD; konsultasikan spesialis.",
+    "adhd": "ADHD dapat dikelola dengan strategi & obat.",
+    "autism": "Dukungan berbasis kekuatan penting bagi autisme.",
+    "eating_disorder": "Gangguan makan serius; perlu tim klinis.",
+    "substance_use": "Dukungan pemulihan tersedia untuk masalah zat.",
+    "sleep": "Rutinitas tidur & CBT-I sering membantu masalah tidur.",
+    "suicide_selfharm": "Jika kamu merasa ingin melukai diri atau bunuh diri, segera cari bantuan darurat di daerahmu. Hubungi layanan krisis, rumah sakit terdekat, atau orang yang kamu percaya sekarang juga.",
+    "therapy": "Terapi melibatkan bicara dengan profesional terlatih.",
+    "mindfulness": "Mindfulness = hadir di saat ini secara sadar; latihan singkat rutin.",
+    "other": "For mental health information, consult the nearest professional."
+  }
+}

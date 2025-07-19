@@ -1,0 +1,501 @@
+Question_ID,Questions,Answers,topic,urgent
+1009594,What is positive psychology?,Mental health topic; support and care can help.,other,False
+1028374,What are common signs of war trauma in children?,"Flashbacks, avoidance, hyperarousal.",ptsd,False
+1030153,How can I find a mental health professional for myself or my child?,Feeling comfortable with the professional you or your child is working with is critical to the success of the treatment.,other,False
+1036161,How is bipolar disorder treated?,Mood stabilizers + therapy + routine.,bipolar,False
+1043721,I received a diagnosis but I don’t think it’s right. What can I do?,"If possible, bring up your concerns with the professional who provided the diagnosis.",other,False
+1054447,How is when to call emergency services treated?,Consult a professional; treatments exist.,other,False
+1059486,How is school counselor treated?,Find a trained provider; many effective styles.,therapy,False
+1109031,What are common signs of self-harm?,"Talk of death, giving away items, self-injury.",suicide_selfharm,True
+1120642,When should I get help for sexual assault trauma?,"Seek help if symptoms persist, worsen, or disrupt daily life.",ptsd,False
+1131249,What is cost of mental health care?,Mental health topic; support and care can help.,other,False
+1155199,"If I become involved in treatment, what do I need to know?",It is important to be as involved and engaged in the treatment process as possible.,other,False
+1156287,When should I get help for caregiver stress?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+1162230,Can relapse prevention improve with treatment?,Yes. With proper care many people improve.,other,False
+1192619,When should I get help for talking to parents about mental health?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+1247595,What is puberty and emotions?,Mental health topic; support and care can help.,other,False
+1259439,If I become involved in treatment what do I need to know?,It is important to continue involvement in the treatment process as much as possible.,other,False
+1326765,When should I get help for goal setting?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+1337085,"I have thoughts of suicide, or someone I care about is talking about suicide. What should I do?","If you need to talk to someone or you aren’t sure how to help someone you care about, call 1-800-SUICIDE (1-800-784-2433) at any time.",suicide_selfharm,True
+1352896,What is refugee trauma?,Ongoing distress after trauma.,ptsd,False
+1397023,What are common signs of financial stress?,"Restlessness, racing thoughts, tension, avoidance.",other,False
+1415846,When should I get help for text vs call crisis help?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+1419610,What are common signs of anxiety?,"Restlessness, racing thoughts, tension, avoidance.",anxiety,False
+1445199,What is postpartum depression?,"Persistent low mood, loss of interest; help is available.",depression,False
+1463060,When should I get help for genetic testing for meds?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+1499914,What is substance use disorder?,Problem use of substances despite harm.,substance_use,False
+1511075,How do I deal with someone telling me what to do?,"Some people may advise you on good evidence of what works with the best of intentions, but it's important to find out what works best for you.",other,False
+1527021,When should I get help for rural mental health access?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+1533224,Can eating disorders improve with treatment?,Yes. With proper care many people improve.,eating_disorder,False
+1538552,When should I get help for combining meds and therapy?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+1546812,Can I get help paying for prescription medications?,"BC PharmaCare covers the cost of some medications through Plan G, the Psychiatric Medications Plan, for people who need a medication to be well but cannot.",other,False
+1585622,Where can I find child and youth mental health services?,"To find help for a child or youth, you can: Encourage your child to talk to a teacher or school counsellor Talk to your family doctor or pediatrician, or go to.",other,False
+1590140,What does it mean to have a mental illness?,"Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning.",other,False
+1604451,When should I get help for intensive outpatient program?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+1619387,What should I do if I know someone who appears to have the symptoms of a mental disorder?,We encourage those with symptoms to talk to their friends and family members and seek the counsel of a mental health professional.,other,False
+1641849,When should I get help for caffeine and anxiety?,"Seek help if symptoms persist, worsen, or disrupt daily life.",anxiety,False
+1649691,How is light therapy treated?,Find a trained provider; many effective styles.,therapy,False
+1666754,How is tourette syndrome treated?,Consult a professional; treatments exist.,other,False
+1667863,Can you prevent mental health problems?,"We can all suffer from mental health challenges, but developing our wellbeing, resilience, and seeking help early can help prevent challenges becoming serious.",other,False
+1669324,What are common signs of reducing stigma?,"Watch for changes in mood, behavior, or function.",other,False
+1701771,When should I get help for workplace accommodations?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+1706961,What's the difference between CBT and DBT?,"CBT (cognitive-behavioural therapy) and DBT (dialectical behaviour therapy) are two forms of psychotherapy or “talk therapy.” In both, you work with a mental.",other,False
+1728977,What are common signs of intellectual disability?,"Watch for changes in mood, behavior, or function.",other,False
+1739653,What are common signs of couples therapy?,N/A.,therapy,False
+1744682,Can immigrant mental health improve with treatment?,Yes. With proper care many people improve.,other,False
+1768805,What are common signs of student mental health?,"Watch for changes in mood, behavior, or function.",other,False
+1790481,How is partial hospitalization treated?,Consult a professional; treatments exist.,substance_use,False
+1833460,Where can older adults find help for mental health concerns?,"Mental health concerns are a serious concern at any age, and everyone deserves help and support.",other,False
+1841248,How is grief treated?,Consult a professional; treatments exist.,other,False
+1848731,Can hormones and mood improve with treatment?,Yes. With proper care many people improve.,other,False
+1852264,How is grounding techniques treated?,Consult a professional; treatments exist.,other,False
+1896541,What are positive and negative symptoms?,Positive and negative symptoms are medical terms for two groups of symptoms in schizophrenia. Positive symptoms add.,other,False
+1898078,What's the difference between psychotherapy and counselling?,Psychotherapy and counselling have a lot in common and usually mean the same thing.,therapy,False
+1908841,Can parasocial relationships improve with treatment?,Yes. With proper care many people improve.,other,False
+1938483,What are common signs of medication adherence?,"Watch for changes in mood, behavior, or function.",other,False
+1954280,How is suicidal thoughts treated?,Immediate crisis support; professional care.,suicide_selfharm,True
+1959074,What are common signs of seasonal affective disorder?,"Watch for changes in mood, behavior, or function.",other,False
+1971823,When should I get help for trauma after violence?,"Seek help if symptoms persist, worsen, or disrupt daily life.",ptsd,False
+1981186,When should I get help for generalized anxiety disorder?,"Seek help if symptoms persist, worsen, or disrupt daily life.",anxiety,False
+1983738,Can teen parenting stress improve with treatment?,Yes. With proper care many people improve.,other,False
+1987737,What is lgbtq+ youth suicide risk?,Thoughts of ending life or hurting yourself need urgent help.,suicide_selfharm,True
+2009922,I’m having a hard time coping with a physical health problem. Where can I find help?,Physical health can have a big impact on mental health!,other,False
+2016911,What are common signs of role-play therapy?,N/A.,therapy,False
+2022698,Can social anxiety improve with treatment?,Yes. With proper care many people improve.,anxiety,False
+2065818,How is legal rights in treatment treated?,Consult a professional; treatments exist.,other,False
+2074176,When should I get help for interpreters in therapy?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+2110460,How is screen time and mood treated?,Consult a professional; treatments exist.,other,False
+2110618,Who does mental illness affect?,"Mental illness can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background.",other,False
+2115228,Where can I find self-help materials for anxiety?,Self-help resources are not a substitute for diagnosis or treatment.,anxiety,False
+2130789,How is intersectionality mental health treated?,Consult a professional; treatments exist.,other,False
+2140194,How is gambling disorder treated?,Consult a professional; treatments exist.,other,False
+2149597,What are common signs of opioid use disorder?,"Cravings, loss of control, withdrawal.",substance_use,False
+2154126,How is psychiatrist vs psychologist treated?,Consult a professional; treatments exist.,other,False
+2161193,When should I get help for retirement adjustment?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+2164686,What are common signs of isolation and loneliness?,"Watch for changes in mood, behavior, or function.",other,False
+2166941,What is lgbtq+ mental health?,Mental health topic; support and care can help.,other,False
+2173965,What are common signs of minority stress?,"Restlessness, racing thoughts, tension, avoidance.",other,False
+2176317,How can I pay for mental health care?,"Mental health services provided through the government-run (‘public’) system, like services you receive through your local mental health centre or team, an.",other,False
+2188789,What is noise and mental health?,Mental health topic; support and care can help.,other,False
+2191066,Can human trafficking trauma improve with treatment?,Yes. With proper care many people improve.,ptsd,False
+2197935,What are common signs of support groups?,"Watch for changes in mood, behavior, or function.",other,False
+2217071,How is workplace stress treated?,"Therapy, skills practice, sometimes medication.",other,False
+2229110,What are common signs of mindfulness?,N/A.,mindfulness,False
+2262382,What are common signs of inpatient vs outpatient care?,"Watch for changes in mood, behavior, or function.",other,False
+2264748,What are common signs of sugar and mood swings?,"Watch for changes in mood, behavior, or function.",other,False
+2321324,What is pandemic mental health?,Mental health topic; support and care can help.,other,False
+2322047,What are common signs of heart disease and mental health?,"Watch for changes in mood, behavior, or function.",other,False
+2338687,Can relationship counseling improve with treatment?,Yes. With proper care many people improve.,therapy,False
+2344047,Can dementia improve with treatment?,Yes. With proper care many people improve.,other,False
+2375453,When should I get help for conduct disorder?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+2437026,What are common signs of isolation and loneliness?,"Watch for changes in mood, behavior, or function.",other,False
+2447683,"Cannabis is legally allowed to 19+ but there are doctor groups saying it’s potentially harmful to age 25. Any use or certain use? What’s myth and what’s fact? If I’m a parent, what should I tell my young adult?",Using cannabis has the potential for benefits and harms.,other,False
+2458591,How is autism treated?,Supportive therapies; strength-based approach.,autism,False
+2525206,What are common signs of inpatient vs outpatient care?,"Watch for changes in mood, behavior, or function.",other,False
+2548511,When should I get help for exposure therapy?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+2553795,How can I find a mental health professional right for my child or myself?,Feeling comfortable with the professional you or your child is working with is critical to the success of your treatment.,other,False
+2554141,Why do I need a plan?,"There are a lot of things you can't control. You can't control what happens next, how governments respond, or how your neighbours react to the pandemic.",other,False
+2556017,What is hoarding disorder?,Mental health topic; support and care can help.,other,False
+2564689,What are common signs of menopause and mood?,"Watch for changes in mood, behavior, or function.",other,False
+2571945,What are common signs of phobias?,"Restlessness, racing thoughts, tension, avoidance.",other,False
+2582524,How is procrastination treated?,Consult a professional; treatments exist.,other,False
+2612846,How can I see a psychiatrist?,"A psychiatrist is a specialist doctor. In BC, you need to ask your doctor for a referral.",other,False
+2622631,How is tourette syndrome treated?,Consult a professional; treatments exist.,other,False
+2626229,When should I get help for motivation?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+2642635,When should I get help for microbiome and mood?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+2651177,What is fandom stress?,Excessive worry or fear that disrupts life.,other,False
+2677407,What is anger management?,Mental health topic; support and care can help.,other,False
+2694522,What are common signs of mindfulness?,N/A.,mindfulness,False
+2714803,Can body dysmorphic disorder improve with treatment?,Yes. With proper care many people improve.,other,False
+2719583,What are common signs of adhd?,"Distractible, forgetful, restless.",adhd,False
+2724590,What is supporting a partner?,"Offer empathy, listen, and encourage professional help.",other,False
+2737893,How is first therapy session treated?,Find a trained provider; many effective styles.,therapy,False
+2746837,An adult in my life seems ill and won’t find help. What can I do?,"It’s difficult when an adult child, sibling, parent, friend, co-worker, or other important person is struggling or behaving in ways that are causing harm.",other,False
+2785277,How is vr therapy treated?,Find a trained provider; many effective styles.,therapy,False
+2795765,What are common signs of medication adherence?,"Watch for changes in mood, behavior, or function.",other,False
+2813543,What is tms?,Mental health topic; support and care can help.,other,False
+2818692,Can nicotine and mood improve with treatment?,Yes. With proper care many people improve.,other,False
+2833230,Can dance therapy improve with treatment?,Yes. With proper care many people improve.,therapy,False
+2839607,When should I get help for intensive outpatient program?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+2867825,What is depression?,"Persistent low mood, loss of interest; help is available.",depression,False
+2871534,How is supporting a student treated?,Ask how to help; connect to services.,other,False
+2876828,Can habit building improve with treatment?,Yes. With proper care many people improve.,other,False
+2876932,What is recovery planning?,Mental health topic; support and care can help.,other,False
+2884887,How can I take care of my physical health?,Taking care of your physical health is also good for your mental health. It's more important than ever to keep yourself healthy.,other,False
+2903196,Where can I find more information about depression?,"Our info sheets on mood disorders, bipolar disorder, and depression offer information on mood problems, treatment options, and resources in BC.",depression,False
+2921859,Can supporting a friend improve with treatment?,Yes. With proper care many people improve.,other,False
+2935113,Can nutrition supplements mood improve with treatment?,Yes. With proper care many people improve.,other,False
+2936571,What is medication side effects?,Mental health topic; support and care can help.,other,False
+2940214,What is religion and mental health?,Mental health topic; support and care can help.,other,False
+2973656,How do I know if I’m unwell?,"If your beliefs , thoughts , feelings or behaviours have a significant impact on your ability to function in what might be considered a normal or ordinary way,.",other,False
+3011363,What is hoarding disorder?,Mental health topic; support and care can help.,other,False
+3030113,What is religion and mental health?,Mental health topic; support and care can help.,other,False
+3055896,Someone I love has been diagnosed with schizophrenia. How can I help?,We naturally want to help a loved one who isn’t feeling well.,schizophrenia,False
+3090865,Can urban stress improve with treatment?,Yes. With proper care many people improve.,other,False
+3094235,Can hiv and mental health improve with treatment?,Yes. With proper care many people improve.,other,False
+3109911,What is after hospitalization follow-up?,Mental health topic; support and care can help.,substance_use,False
+3138181,How is legal rights in treatment treated?,Consult a professional; treatments exist.,other,False
+3154051,What are common signs of medication refill planning?,"Watch for changes in mood, behavior, or function.",other,False
+3166337,How can I see a psychologist?,"To find a Registered Psychologist, visit the BC Psychological Association. You can make an appointment on your own.",other,False
+3194789,Can cyberbullying improve with treatment?,Yes. With proper care many people improve.,other,False
+3195773,When should I get help for men's mental health?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+3219824,What are common signs of news-related stress?,"Restlessness, racing thoughts, tension, avoidance.",other,False
+3221856,What is the evidence on vaping?,"""Vaping"" is the term for using a device where liquids, often flavoured, are turned into vapour (hence, vaping) and inhaled.",other,False
+3222252,What is acceptance and commitment therapy?,Structured talk-based help for mental health concerns.,therapy,False
+3253031,When should I get help for what to expect in therapy?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+3268009,Where can I learn about types of mental health treatment?,"Mental health conditions are often treated with medication, therapy or a combination of the two.",other,False
+3284724,How do I apply for income assistance?,"Provincial income assistance has three income levels: basic assistance (also called welfare), Persons with Disabilities benefits (PWD), and the Persons with.",other,False
+3320821,When should I get help for coping skills?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+3340726,What are the different types of mental health professionals?,There are many types of mental health professionals. Finding the right one for you may require some research.,other,False
+3341057,What is ocd?,Obsessions and compulsions that feel hard to control.,ocd,False
+3342608,What are common signs of couples therapy?,N/A.,therapy,False
+3351868,What is travel and mental health?,Mental health topic; support and care can help.,other,False
+3388962,What should I know before starting a new medication?,The best source of information regarding medications is the physician prescribing them.,other,False
+3393534,Someone I care about has a brain injury. Where can I find more information?,"A brain injury itself isn’t the same as a mental illness, though someone who experiences a brain injury may also experience mental health problems.",other,False
+3396987,Can emdr improve with treatment?,Yes. With proper care many people improve.,other,False
+3484601,What is case management?,Mental health topic; support and care can help.,other,False
+3500715,How is partial hospitalization treated?,Consult a professional; treatments exist.,substance_use,False
+3564217,What are common signs of ect?,"Watch for changes in mood, behavior, or function.",other,False
+3564251,Can peer support improve with treatment?,Yes. With proper care many people improve.,other,False
+3592974,When should I get help for mental health first aid?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+3597059,Can eating disorders improve with treatment?,Yes. With proper care many people improve.,eating_disorder,False
+3597720,How can I reframe the situation and find more balanced perspectives?,How you think about something impacts your feelings and your behaviours.,other,False
+3607983,How is stopping medication safely treated?,Consult a professional; treatments exist.,other,False
+3608513,What are common signs of opioid use disorder?,"Cravings, loss of control, withdrawal.",substance_use,False
+3641282,What are common signs of self-harm?,"Talk of death, giving away items, self-injury.",suicide_selfharm,True
+3646552,What are common signs of support groups?,"Watch for changes in mood, behavior, or function.",other,False
+3653446,What is safety plan?,Mental health topic; support and care can help.,other,False
+3670896,Can ketamine treatment improve with treatment?,Yes. With proper care many people improve.,other,False
+3678638,How is suicidal thoughts treated?,Immediate crisis support; professional care.,suicide_selfharm,True
+3684052,What is case management?,Mental health topic; support and care can help.,other,False
+3710343,When should I get help for sleep hygiene?,"Seek help if symptoms persist, worsen, or disrupt daily life.",sleep,False
+3710895,What are common signs of self-esteem?,"Watch for changes in mood, behavior, or function.",other,False
+3726327,What is safety plan?,Mental health topic; support and care can help.,other,False
+3728882,What are common signs of medication management?,"Watch for changes in mood, behavior, or function.",other,False
+3741438,What is cost of mental health care?,Mental health topic; support and care can help.,other,False
+3762152,What is depression?,"Persistent low mood, loss of interest; help is available.",depression,False
+3770370,When should I get help for genetic testing for meds?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+3790237,When should I get help for andropause mental health?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+3839472,Someone I love has been diagnosed with depression. How can I help?,We naturally want to help a loved one who isn’t feeling well.,depression,False
+3871230,How is crisis line treated?,Consult a professional; treatments exist.,other,False
+3970445,What are common signs of de-escalation skills?,"Watch for changes in mood, behavior, or function.",other,False
+3995870,What are common signs of omega-3 and depression?,"Low mood ≥2 weeks, sleep/appetite changes, low energy.",depression,False
+3997281,What is data privacy in mental health apps?,Mental health topic; support and care can help.,other,False
+4009172,Can ai chatbots and mental health improve with treatment?,Yes. With proper care many people improve.,other,False
+4031860,Where can I go to find other local services?,There are likely plenty of resources that can be used to help you find mental health treatment in your community.,other,False
+4078418,How is shift work sleep treated?,"Sleep hygiene, CBT-I, meds short-term.",sleep,False
+4117625,What is alcohol use disorder?,Problem use of substances despite harm.,substance_use,False
+4134858,How can I manage grief?,"While a lot of people think of grief in terms of losing a person or pet, grief can come up whenever you lose something important.",other,False
+4181750,How can I tell if health information is good or bad?,"Anyone can post anything online. It's up to the readers to think critically about information to decide if it seems helpful, truthful, or safe.",other,False
+4185957,What is substance use disorder?,Problem use of substances despite harm.,substance_use,False
+4188992,How is language barriers to care treated?,Consult a professional; treatments exist.,other,False
+4191175,How is nature therapy treated?,Find a trained provider; many effective styles.,therapy,False
+4194548,What are common signs of test-taking stress?,"Restlessness, racing thoughts, tension, avoidance.",other,False
+4194958,What do I do if the support doesn’t help?,"It can be difficult to find the things that will help you, as different things help different people.",other,False
+4197817,Where else can I get help?,"family member, friend, clergy, healthcare provider, or other professionals.",other,False
+4200873,I’m a young person and one of my parents has a mental illness. What can I do?,"Someone else’s illness is not your fault. You also can’t control how someone else feels, their illness, or the things they do or say.",other,False
+4211025,Where can I go to find inpatient care?,"Inpatient care can help people stabilize on new medications, adjust to new symptoms, or get the help they need.",other,False
+4214348,What are common signs of equine therapy?,N/A.,therapy,False
+4226067,Can women's mental health improve with treatment?,Yes. With proper care many people improve.,other,False
+4240180,How is housing insecurity mental health treated?,Consult a professional; treatments exist.,other,False
+4283807,What causes mental health problems?,"Challenges or problems with your mental health can arise from psychological, biological, and social, issues, as well as life events.",other,False
+4294616,How can I find help for an alcohol or drug use problem?,Seeking to make changes in the way you use substances like alcohol or other drugs? This can be an important step!,substance_use,False
+4305700,When should I get help for sexual assault trauma?,"Seek help if symptoms persist, worsen, or disrupt daily life.",ptsd,False
+4335942,What are common signs of seasonal affective disorder?,"Watch for changes in mood, behavior, or function.",other,False
+4337174,What is tms?,Mental health topic; support and care can help.,other,False
+4348276,What is positive psychology?,Mental health topic; support and care can help.,other,False
+4352464,How can I convince my kids not to use drugs?,You can't. But you can influence their capacity to make good choices in a world where alcohol and other drugs are available.,substance_use,False
+4373204,How do I know if I'm drinking too much?,Sorting out if you are drinking too much can be complicated. You are unique and your relationship with alcohol is unique.,other,False
+4374754,When should I get help for caffeine and anxiety?,"Seek help if symptoms persist, worsen, or disrupt daily life.",anxiety,False
+4415796,How is screen time and mood treated?,Consult a professional; treatments exist.,other,False
+4426900,When should I get help for chronic pain and mental health?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+4514944,Can teletherapy improve with treatment?,Yes. With proper care many people improve.,therapy,False
+4524499,When should I get help for talking to parents about mental health?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+4533779,What is sleep and mental health?,Trouble falling or staying asleep that impairs functioning.,sleep,False
+4539704,When should I get help for social media and mental health?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+4553384,How is probiotics and mood treated?,Consult a professional; treatments exist.,other,False
+4567281,What is journaling?,Mental health topic; support and care can help.,other,False
+4576135,How is meditation treated?,Practice brief daily sessions; apps help.,mindfulness,False
+4586084,How is new parent stress treated?,"Therapy, skills practice, sometimes medication.",other,False
+4594297,What is doomscrolling?,Mental health topic; support and care can help.,other,False
+4612365,How is gambling disorder treated?,Consult a professional; treatments exist.,other,False
+4652414,How is panic disorder treated?,"Therapy, skills practice, sometimes medication.",anxiety,False
+4668136,How is panic disorder treated?,"Therapy, skills practice, sometimes medication.",anxiety,False
+4679591,How is resilience treated?,Consult a professional; treatments exist.,other,False
+4684531,Can privacy in therapy improve with treatment?,Yes. With proper care many people improve.,therapy,False
+4694634,How is domestic violence effects treated?,Consult a professional; treatments exist.,other,False
+4698379,When should I get help for stress?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+4731818,Can gratitude practice improve with treatment?,Yes. With proper care many people improve.,other,False
+4740036,What is time management stress?,Excessive worry or fear that disrupts life.,other,False
+4744854,Can ptsd improve with treatment?,Yes. With proper care many people improve.,ptsd,False
+4759773,What should I do if I’m worried about a friend or relative?,This may depend on your relationship with them. Gently encouraging someone to seek appropriate support would be helpful to start with.,other,False
+4769795,How is language barriers to care treated?,Consult a professional; treatments exist.,other,False
+4816493,Where can I find information and help for borderline personality disorder?,Borderline personality disorder or BPD is a treatable illness.,other,False
+4818418,Can habit building improve with treatment?,Yes. With proper care many people improve.,other,False
+4823498,How is workplace stress treated?,"Therapy, skills practice, sometimes medication.",other,False
+4824231,What’s the difference between substance use and addiction?,People tend to use the word “addiction” to mean very different things. “I am addicted to shopping” might mean only that the speaker likes to shop.,substance_use,False
+4841005,What are common signs of minority stress?,"Restlessness, racing thoughts, tension, avoidance.",other,False
+4842788,How is stopping medication safely treated?,Consult a professional; treatments exist.,other,False
+4860684,What are common signs of war trauma in children?,"Flashbacks, avoidance, hyperarousal.",ptsd,False
+4893447,What’s the difference between anxiety and an anxiety disorder?,Anxiety is a normal reaction to many different kinds of events and situations in our lives.,anxiety,False
+4903402,When should I get help for generalized anxiety disorder?,"Seek help if symptoms persist, worsen, or disrupt daily life.",anxiety,False
+4905582,What is anger management?,Mental health topic; support and care can help.,other,False
+4925221,What's the difference between antidepressants?,"There are many different types of antidepressant medications, and they each work in different ways.",depression,False
+4946066,When should I get help for internet addiction?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+4962901,What is a prodrome?,Prodrome is a medical term for early signs or symptoms of an illness or health problem that appear before the major signs or symptoms start.,other,False
+4965789,How is pms mood changes treated?,Consult a professional; treatments exist.,other,False
+4971793,Can warning signs of crisis improve with treatment?,Yes. With proper care many people improve.,other,False
+4993055,How is climate anxiety treated?,"Therapy, skills practice, sometimes medication.",anxiety,False
+5004485,What is diabetes and mental health?,Mental health topic; support and care can help.,other,False
+5017343,How is housing insecurity mental health treated?,Consult a professional; treatments exist.,other,False
+5041154,Can natural disaster trauma improve with treatment?,Yes. With proper care many people improve.,ptsd,False
+5076817,When should I get help for perfectionism?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+5098412,When should I get help for therapy vs counseling?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+5107245,Can insurance coverage improve with treatment?,Yes. With proper care many people improve.,other,False
+5108603,When should I get help for schizophrenia?,"Seek help if symptoms persist, worsen, or disrupt daily life.",schizophrenia,False
+5130808,What are common signs of tic disorders?,"Watch for changes in mood, behavior, or function.",other,False
+5137722,How is school counselor treated?,Find a trained provider; many effective styles.,therapy,False
+5159166,What are common signs of cultural stigma?,"Watch for changes in mood, behavior, or function.",other,False
+5163555,How is vr therapy treated?,Find a trained provider; many effective styles.,therapy,False
+5171761,What is animal-assisted therapy?,Structured talk-based help for mental health concerns.,therapy,False
+5186414,Can supporting a friend improve with treatment?,Yes. With proper care many people improve.,other,False
+5191056,What is hydration and brain function?,Mental health topic; support and care can help.,other,False
+5213115,What are common signs of breathing exercises?,"Watch for changes in mood, behavior, or function.",other,False
+5215843,Where can I learn more information about clinical trials?,"Sometimes, consumers of mental health services may consider participating in a research study when they have not experienced improvement despite having tried a.",other,False
+5218028,How is talking to kids about mental health treated?,Ask how to help; connect to services.,other,False
+5273534,When should I get help for interpreters in therapy?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+5343181,"If I feel better after taking medication, does this mean I am ""cured"" and can stop taking it?",Create a plan for switching to a different treatment that will be a better fit.,other,False
+5374922,How is traumatic brain injury treated?,Trauma-focused therapy; meds if needed.,ptsd,False
+5382463,What is vitamin d and mood?,Mental health topic; support and care can help.,other,False
+5394880,What is body image?,Mental health topic; support and care can help.,other,False
+5408072,When should I get help for bullying and mental health?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+5418934,When should I get help for text vs call crisis help?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+5428914,When should I get help for social media and mental health?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+5437001,Can privacy in therapy improve with treatment?,Yes. With proper care many people improve.,therapy,False
+5437923,What is learning disabilities?,Mental health topic; support and care can help.,other,False
+5443951,What is family therapy?,Structured talk-based help for mental health concerns.,therapy,False
+5446912,Can nutrition supplements mood improve with treatment?,Yes. With proper care many people improve.,other,False
+5449324,Can dialectical behavior therapy improve with treatment?,Yes. With proper care many people improve.,therapy,False
+5449368,Can ptsd improve with treatment?,Yes. With proper care many people improve.,ptsd,False
+5453786,How is probiotics and mood treated?,Consult a professional; treatments exist.,other,False
+5456272,What are common signs of heart disease and mental health?,"Watch for changes in mood, behavior, or function.",other,False
+5476257,When should I get help for psychedelic therapy?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+5476583,What is supporting a partner?,"Offer empathy, listen, and encourage professional help.",other,False
+5479144,What is group therapy?,Structured talk-based help for mental health concerns.,therapy,False
+5491946,What are common signs of diet and mental health?,"Watch for changes in mood, behavior, or function.",other,False
+5528972,When should I get help for what to expect in therapy?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+5569244,When should I get help for combining meds and therapy?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+5614226,How is bipolar disorder treated?,Mood stabilizers + therapy + routine.,bipolar,False
+5640861,I’m worried about my child or teenager. Where can I find help?,It can be hard to figure out what to do if you’re concerned about a young person in your family. Many people start by talking with their family doctor.,other,False
+5641923,What is family therapy?,Structured talk-based help for mental health concerns.,therapy,False
+5661907,What is alcohol use disorder?,Problem use of substances despite harm.,substance_use,False
+5663623,When should I get help for cognitive behavioral therapy?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+5667265,What is insomnia?,Trouble falling or staying asleep that impairs functioning.,sleep,False
+5672073,When should I get help for eco-grief?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+5673212,When should I get help for nutrition in college?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+5674183,What is pandemic mental health?,Mental health topic; support and care can help.,other,False
+5682940,How is aging and mental health treated?,Consult a professional; treatments exist.,other,False
+5727085,Can exercise and mood improve with treatment?,Yes. With proper care many people improve.,other,False
+5778437,How can I get help paying for my medication?,Visit Healthfinder.gov to learn more.,other,False
+5781295,What is group therapy?,Structured talk-based help for mental health concerns.,therapy,False
+5785687,What are common signs of adhd?,"Distractible, forgetful, restless.",adhd,False
+5819325,What does rapid cycling mean?,Rapid cycling means that someone diagnosed with bipolar disorder (or depression) experiences four or more episodes of depression and/or mania in one year.,other,False
+5855124,When should I get help for caregiver stress?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+5918715,How is cancer and mental health treated?,Consult a professional; treatments exist.,other,False
+5924115,When should I get help for mental health first aid?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+5977931,What are common signs of phobias?,"Restlessness, racing thoughts, tension, avoidance.",other,False
+5981663,What is MSP?,"MSP stands for Medical Services Plan. It’s a health insurance program managed by the government for people who live in British Columbia, Canada.",other,False
+6007072,When should I get help for psychedelic therapy?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+6022741,What are common signs of finding a therapist?,"Watch for changes in mood, behavior, or function.",therapy,False
+6033115,Can women's mental health improve with treatment?,Yes. With proper care many people improve.,other,False
+6038571,What is noise and mental health?,Mental health topic; support and care can help.,other,False
+6062232,What's the difference between sadness and depression?,"Sadness is a normal reaction to a loss, disappointment, problems, or other difficult situations.",depression,False
+6075395,When should I get help for confidentiality?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+6085633,What's the difference between psychosis and schizophrenia?,Psychosis is a syndrome or group of symptoms. Someone experiencing an episode of psychosis is having a ‘break’ with reality.,schizophrenia,False
+6120253,When should I get help for goal setting?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+6159230,What are common signs of financial stress?,"Restlessness, racing thoughts, tension, avoidance.",other,False
+6167248,When is substance use a problem? Where can I go for help?,"Each person has a different relationship with substances like alcohol and other drugs, and people use substances for different reasons.",substance_use,False
+6171716,Can disability benefits improve with treatment?,Yes. With proper care many people improve.,other,False
+6188935,How is climate anxiety treated?,"Therapy, skills practice, sometimes medication.",anxiety,False
+6229731,Can nicotine and mood improve with treatment?,Yes. With proper care many people improve.,other,False
+6261415,What is postpartum depression?,"Persistent low mood, loss of interest; help is available.",depression,False
+6262632,How is nootropic supplements treated?,Consult a professional; treatments exist.,other,False
+6266630,When should I get help for rural mental health access?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+6271130,Can hiv and mental health improve with treatment?,Yes. With proper care many people improve.,other,False
+6279418,Can mental health apps improve with treatment?,Yes. With proper care many people improve.,other,False
+6292423,Can exercise and mood improve with treatment?,Yes. With proper care many people improve.,other,False
+6304573,What are common signs of student mental health?,"Watch for changes in mood, behavior, or function.",other,False
+6307805,What are common signs of intellectual disability?,"Watch for changes in mood, behavior, or function.",other,False
+6438436,What are common signs of self-compassion?,"Watch for changes in mood, behavior, or function.",other,False
+6440561,What is medication side effects?,Mental health topic; support and care can help.,other,False
+6507321,Can natural disaster trauma improve with treatment?,Yes. With proper care many people improve.,ptsd,False
+6521784,What is the legal status (and evidence) of CBD oil?,Cannabidiol or CBD is a naturally occurring component of cannabis. It is extracted from the cannabis plant and often made into an oil for use.,other,False
+6539837,How is intersectionality mental health treated?,Consult a professional; treatments exist.,other,False
+6543670,Can urban stress improve with treatment?,Yes. With proper care many people improve.,other,False
+6555772,How is lab tests for psych meds treated?,Consult a professional; treatments exist.,other,False
+6573147,What is data privacy in mental health apps?,Mental health topic; support and care can help.,other,False
+6596150,When should I get help for bullying and mental health?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+6623577,What is a referral?,"A referral means someone recommends you to another service. In health care, it usually means a request from your doctor to see a specialist like a psychiatrist.",other,False
+6647119,When should I get help for internet addiction?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+6672134,Can immigrant mental health improve with treatment?,Yes. With proper care many people improve.,other,False
+6692553,When should I get help for music therapy?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+6707197,What are common signs of supporting an employee?,N/A.,other,False
+6708456,Can dementia improve with treatment?,Yes. With proper care many people improve.,other,False
+6752576,What are common signs of diet and mental health?,"Watch for changes in mood, behavior, or function.",other,False
+6770619,Can oppositional defiant disorder improve with treatment?,Yes. With proper care many people improve.,other,False
+6779222,Where can I find free or low-cost counselling?,Mental health services like counselling or therapy may be covered by your BC Medical Services Plan (MSP) when you access the service through a hospital or.,therapy,False
+6799667,What are common signs of psychedelics risks?,"Watch for changes in mood, behavior, or function.",other,False
+6851366,What's the difference between a psychiatrist and a registered psychologist?,A psychiatrist is a medical doctor with extra training in mental health who can choose to prescribe medications.,other,False
+6855396,What are common signs of medication management?,"Watch for changes in mood, behavior, or function.",other,False
+6866294,How is values work treated?,Consult a professional; treatments exist.,other,False
+6869967,I’m an adult and I think I might have ADHD. What can I do next?,"While we think of attention-deficit/hyperactivity disorder as an illness that affects children, it can last into adulthood—and some people aren’t diagnosed.",adhd,False
+6891254,When should I get help for retirement adjustment?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+6933742,What are common signs of supporting an employee?,N/A.,other,False
+6944126,What is gaming and mental health?,Mental health topic; support and care can help.,other,False
+6960453,When should I get help for therapy vs counseling?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+6981545,Where can I find self-help materials for depression?,Self-help resources are not a substitute for diagnosis or treatment.,depression,False
+7003042,How is talking to kids about mental health treated?,Ask how to help; connect to services.,other,False
+7009409,How can I see a counsellor?,You can find directories of counsellors through their professional organizations.,therapy,False
+7022674,When should I get help for conduct disorder?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+7067228,When should I get help for men's mental health?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+7069853,Why do I need to keep informed?,"It may be tempting to try to block out the world altogether to avoid bad news, but it's important to keep yourself informed.",other,False
+7073292,What are common signs of self-esteem?,"Watch for changes in mood, behavior, or function.",other,False
+7089806,What is time management stress?,Excessive worry or fear that disrupts life.,other,False
+7110622,Can human trafficking trauma improve with treatment?,Yes. With proper care many people improve.,ptsd,False
+7117837,What is return to work after illness?,Mental health topic; support and care can help.,other,False
+7120868,What is acceptance and commitment therapy?,Structured talk-based help for mental health concerns.,therapy,False
+7194416,Can peer support improve with treatment?,Yes. With proper care many people improve.,other,False
+7199635,Can teletherapy improve with treatment?,Yes. With proper care many people improve.,therapy,False
+7210606,How is psychiatrist vs psychologist treated?,Consult a professional; treatments exist.,other,False
+7264956,What are common signs of psychedelics risks?,"Watch for changes in mood, behavior, or function.",other,False
+7273233,How is light therapy treated?,Find a trained provider; many effective styles.,therapy,False
+7350753,What is diabetes and mental health?,Mental health topic; support and care can help.,other,False
+7358113,What are common signs of anxiety?,"Restlessness, racing thoughts, tension, avoidance.",anxiety,False
+7366205,How is first therapy session treated?,Find a trained provider; many effective styles.,therapy,False
+7374122,What are common signs of tic disorders?,"Watch for changes in mood, behavior, or function.",other,False
+7377459,How is meditation treated?,Practice brief daily sessions; apps help.,mindfulness,False
+7402509,Can disability benefits improve with treatment?,Yes. With proper care many people improve.,other,False
+7417985,What are common signs of ect?,"Watch for changes in mood, behavior, or function.",other,False
+7455324,When should I get help for workplace accommodations?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+7462506,What are common signs of cultural stigma?,"Watch for changes in mood, behavior, or function.",other,False
+7535002,How can I challenge thinking traps?,What you tell yourself about a situation affects how you feel and what you do.,other,False
+7550190,When should I get help for schizophrenia?,"Seek help if symptoms persist, worsen, or disrupt daily life.",schizophrenia,False
+7637601,How is grounding techniques treated?,Consult a professional; treatments exist.,other,False
+7640184,How is cancer and mental health treated?,Consult a professional; treatments exist.,other,False
+7657263,Can people with mental illness recover?,"When healing from mental illness, early identification and treatment are of vital importance.",other,False
+7685149,When should I get help for trauma after violence?,"Seek help if symptoms persist, worsen, or disrupt daily life.",ptsd,False
+7693979,What is cannabis and mental health?,Mental health topic; support and care can help.,other,False
+7700828,What is body image?,Mental health topic; support and care can help.,other,False
+7705490,What is after hospitalization follow-up?,Mental health topic; support and care can help.,substance_use,False
+7728339,When should I get help for toddler parenting stress?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+7728364,What is mental health?,"We all have mental health which is made up of our beliefs, thoughts, feelings and behaviours.",other,False
+7730428,What is sleep and mental health?,Trouble falling or staying asleep that impairs functioning.,sleep,False
+7754864,How is art therapy treated?,Find a trained provider; many effective styles.,therapy,False
+7760466,What is the difference between mental health professionals?,There are many types of mental health professionals. The variety of providers and their services may be confusing.,other,False
+7774229,Can body dysmorphic disorder improve with treatment?,Yes. With proper care many people improve.,other,False
+7807643,"If cannabis is dangerous, why are we legalizing it?","Cannabis smoke, for example, contains cancer-causing toxins.",other,False
+7817881,How is supporting a student treated?,Ask how to help; connect to services.,other,False
+7818496,Can fertility stress improve with treatment?,Yes. With proper care many people improve.,other,False
+7829332,What is exam anxiety?,Excessive worry or fear that disrupts life.,anxiety,False
+7897151,How is creator burnout treated?,Consult a professional; treatments exist.,other,False
+7907400,What are common signs of wearables and mood tracking?,"Watch for changes in mood, behavior, or function.",other,False
+7917152,How is when to call emergency services treated?,Consult a professional; treatments exist.,other,False
+7984793,What’s the difference between dissociative identity disorder (multiple personality disorder) and schizophrenia?,"Sometimes, people confuse dissociative identity disorder, formerly known as multiple personality disorder, and schizophrenia.",schizophrenia,False
+7995219,What's the difference between mental health and mental illness?,"‘Mental health’ and ‘mental illness’ are increasingly being used as if they mean the same thing, but they do not.",other,False
+8022026,What treatment options are available?,Different treatment options are available for individuals with mental illness.,other,False
+8033426,Can oppositional defiant disorder improve with treatment?,Yes. With proper care many people improve.,other,False
+8038374,How is grief treated?,Consult a professional; treatments exist.,other,False
+8077999,What are common signs of jet lag and mood?,"Watch for changes in mood, behavior, or function.",other,False
+8078673,When should I get help for borderline personality disorder?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+8082668,What are common signs of community mental health centers?,"Watch for changes in mood, behavior, or function.",other,False
+8090293,When should I get help for psychosis?,"Seek help if symptoms persist, worsen, or disrupt daily life.",schizophrenia,False
+8096887,How is autism treated?,Supportive therapies; strength-based approach.,autism,False
+8099076,What are common signs of omega-3 and depression?,"Low mood ≥2 weeks, sleep/appetite changes, low energy.",depression,False
+8106422,Can emdr improve with treatment?,Yes. With proper care many people improve.,other,False
+8106470,What are common signs of streaming stress?,"Restlessness, racing thoughts, tension, avoidance.",other,False
+8175395,When should I get help for coping skills?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+8187926,Can cyberbullying improve with treatment?,Yes. With proper care many people improve.,other,False
+8210624,What are common signs of community mental health centers?,"Watch for changes in mood, behavior, or function.",other,False
+8231838,Can study breaks and focus improve with treatment?,Yes. With proper care many people improve.,other,False
+8235969,What is lgbtq+ youth suicide risk?,Thoughts of ending life or hurting yourself need urgent help.,suicide_selfharm,True
+8290770,What is cannabis and mental health?,Mental health topic; support and care can help.,other,False
+8294150,Can warning signs of crisis improve with treatment?,Yes. With proper care many people improve.,other,False
+8315831,What is refugee trauma?,Ongoing distress after trauma.,ptsd,False
+8321474,When should I get help for herbal remedies mood?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+8350099,How is nootropic supplements treated?,Consult a professional; treatments exist.,other,False
+8351517,How is crisis line treated?,Consult a professional; treatments exist.,other,False
+8412769,How is resilience treated?,Consult a professional; treatments exist.,other,False
+8434500,How is gut-brain connection treated?,Consult a professional; treatments exist.,other,False
+8471978,I was prescribed an antidepressant or other psychiatric medication but I don’t think it’s working. What can I do?,"If you’re concerned about your medications, it’s important to talk with the doctor or psychiatrist who prescribed your medications.",depression,False
+8526486,Can blue spaces and mood improve with treatment?,Yes. With proper care many people improve.,other,False
+8536477,Can burnout improve with treatment?,Yes. With proper care many people improve.,other,False
+8574680,Can traditional healing and mental health improve with treatment?,Yes. With proper care many people improve.,other,False
+8606962,Can dialectical behavior therapy improve with treatment?,Yes. With proper care many people improve.,therapy,False
+8612220,What are common signs of de-escalation skills?,"Watch for changes in mood, behavior, or function.",other,False
+8612349,What's the difference between anxiety and stress?,"Stress and anxiety are often used interchangeably, and there is overlap between stress and anxiety.",anxiety,False
+8633773,What is ocd?,Obsessions and compulsions that feel hard to control.,ocd,False
+8670955,What is lgbtq+ mental health?,Mental health topic; support and care can help.,other,False
+8688755,Can relationship counseling improve with treatment?,Yes. With proper care many people improve.,therapy,False
+8690253,What do I do if I’m worried about my mental health?,"The most important thing is to talk to someone you trust. This might be a friend, colleague, family member, or GP.",other,False
+8698256,When should I get help for exposure therapy?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+8707870,How is traumatic brain injury treated?,Trauma-focused therapy; meds if needed.,ptsd,False
+8722606,What are common signs of self-compassion?,"Watch for changes in mood, behavior, or function.",other,False
+8755439,What are common signs of finding a therapist?,"Watch for changes in mood, behavior, or function.",therapy,False
+8761611,Can meal planning and mood improve with treatment?,Yes. With proper care many people improve.,other,False
+8835373,When should I get help for online harassment?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+8852574,What is return to work after illness?,Mental health topic; support and care can help.,other,False
+8896868,When should I get help for sleep hygiene?,"Seek help if symptoms persist, worsen, or disrupt daily life.",sleep,False
+8904276,Are there cures for mental health problems?,It is often more realistic and helpful to find out what helps with the issues you face.,other,False
+8927672,Where can I learn more information about creating a Psychiatric Advance Directive?,"Similar to a medical advance directive or a health care power of attorney, a psychiatric advance directive is a legal document completed in a time of wellness.",eating_disorder,False
+8930103,How is productivity guilt treated?,Consult a professional; treatments exist.,other,False
+8935169,Can imposter syndrome improve with treatment?,Yes. With proper care many people improve.,other,False
+8973915,How is lab tests for psych meds treated?,Consult a professional; treatments exist.,other,False
+8999183,When should I get help for stress?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+9020440,What is cyclothymic disorder?,Cyclothymic disorder is a subtype of bipolar disorder.,other,False
+9045344,What is dysthymia or persistent depressive disorder?,"Dysthymia, now called persistent depressive disorder or PDD, is a mood disorder. It is related depression (major depressive disorder).",depression,False
+9049618,What is binge-eating disorder?,Binge-eating disorder or BED is a type of eating disorder.,eating_disorder,False
+9075854,What are common signs of pregnancy mental health?,"Watch for changes in mood, behavior, or function.",other,False
+9100298,How can I maintain social connections? What if I feel lonely?,"A lot of people are alone right now, but we don't have to be lonely. We're all in this together.",other,False
+9143903,Can digital detox improve with treatment?,Yes. With proper care many people improve.,other,False
+9147706,What is infertility grief?,Mental health topic; support and care can help.,other,False
+9153566,How is aging and mental health treated?,Consult a professional; treatments exist.,other,False
+9164991,When should I get help for borderline personality disorder?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+9167296,What is obsessive-compulsive personality disorder?,"A personality disorder is a pattern of thoughts, feelings, and behaviours that last for a long time and causes some sort of problem or distress.",ocd,False
+9178453,What is schizoid personality disorder?,"A personality disorder is a pattern of thoughts, feelings, and behaviours that last for a long time and causes some sort of problem or distress.",schizophrenia,False
+9196204,What is journaling?,Mental health topic; support and care can help.,other,False
+9197443,How is values work treated?,Consult a professional; treatments exist.,other,False
+9250044,How can I use distraction to manage difficult thoughts or feelings?,Distraction is a very valid tool to help you cope when everything feels overwhelming or when you feel lonely or isolated.,other,False
+9279821,What is recovery planning?,Mental health topic; support and care can help.,other,False
+9375710,What are common signs of breathing exercises?,"Watch for changes in mood, behavior, or function.",other,False
+9398441,Can ai chatbots and mental health improve with treatment?,Yes. With proper care many people improve.,other,False
+9434130,What are some of the warning signs of mental illness?,Symptoms of mental health disorders vary depending on the type and severity of the condition.,other,False
+9436429,Can burnout improve with treatment?,Yes. With proper care many people improve.,other,False
+9478454,Can social anxiety improve with treatment?,Yes. With proper care many people improve.,anxiety,False
+9479356,Can mental health apps improve with treatment?,Yes. With proper care many people improve.,other,False
+9487336,When should I get help for cognitive behavioral therapy?,"Seek help if symptoms persist, worsen, or disrupt daily life.",therapy,False
+9508103,What are common signs of pollution and brain health?,"Watch for changes in mood, behavior, or function.",other,False
+9517169,Can ketamine treatment improve with treatment?,Yes. With proper care many people improve.,other,False
+9517485,What are common signs of wearables and mood tracking?,"Watch for changes in mood, behavior, or function.",other,False
+9519948,When should I get help for psychosis?,"Seek help if symptoms persist, worsen, or disrupt daily life.",schizophrenia,False
+9539480,Where can I go to find a support group?,Many people find peer support a helpful tool that can aid in their recovery.,other,False
+9541219,Where can I go to find therapy?,Several different types of treatment and therapy that can help.,therapy,False
+9546409,Can chronic illness coping improve with treatment?,Yes. With proper care many people improve.,other,False
+9548432,Can relapse prevention improve with treatment?,Yes. With proper care many people improve.,other,False
+9580255,Can traditional healing and mental health improve with treatment?,Yes. With proper care many people improve.,other,False
+9626108,What are common signs of pollution and brain health?,"Watch for changes in mood, behavior, or function.",other,False
+9630578,How can I find a support group?,Support groups are a way for people with a common experience to help each other and learn from each other.,other,False
+9676742,"How can I find a doctor, psychiatrist, psychologist, or counsellor?","To find a family doctor (general physician), visit the College of Physicians and Surgeons of BC to use their Find a Physician tool.",therapy,False
+9679704,What is antisocial personality disorder?,"A personality disorder is a pattern of thoughts, feelings, and behaviours that last for a long time and causes some sort of problem or distress.",other,False
+9683481,When should I get help for herbal remedies mood?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+9722815,How is domestic violence effects treated?,Consult a professional; treatments exist.,other,False
+9770838,What is learning disabilities?,Mental health topic; support and care can help.,other,False
+9852897,What is vitamin d and mood?,Mental health topic; support and care can help.,other,False
+9874152,Can insurance coverage improve with treatment?,Yes. With proper care many people improve.,other,False
+9877065,What are common signs of reducing stigma?,"Watch for changes in mood, behavior, or function.",other,False
+9897858,Can gratitude practice improve with treatment?,Yes. With proper care many people improve.,other,False
+9910817,What is insomnia?,Trouble falling or staying asleep that impairs functioning.,sleep,False
+9937326,Can chronic illness coping improve with treatment?,Yes. With proper care many people improve.,other,False
+9961380,When should I get help for confidentiality?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+9996207,What are common signs of medication refill planning?,"Watch for changes in mood, behavior, or function.",other,False
+9996414,When should I get help for chronic pain and mental health?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
+9997381,When should I get help for forest bathing?,"Seek help if symptoms persist, worsen, or disrupt daily life.",other,False
